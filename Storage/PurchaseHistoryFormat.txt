@@ -1,0 +1,1 @@
+CustomerID:date:("itemID1","amount"):("itemID2","amount"):("itemID3","amount"):("itemID4","amount"):("itemID5","amount")

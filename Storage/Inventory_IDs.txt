@@ -1,0 +1,19 @@
+FRU: Fruit
+DES: Desert
+TEC: Technology
+VEG: Vegetables
+BEV: Beverages
+HOM: Home Goods
+CLO: Clothing
+SPT: Sports Equipment
+BKS: Books
+TOY: Toys
+MED: Medical Supplies
+STA: Stationery
+PET: Pet Supplies
+AUT: Automotive Parts
+JWL: Jewelry
+ART: Art Supplies
+MUS: Musical Instruments
+GAM: Gaming Accessories
+KIT: Kitchen Appliances
